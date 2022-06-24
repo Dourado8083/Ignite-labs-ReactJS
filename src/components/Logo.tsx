@@ -1,7 +1,6 @@
 /*
-*Imagem convertida do svg2jsx.
-
-*/
+ *Imagem convertida do svg2jsx.
+ */
 export function Logo() {
   return (
     <svg
